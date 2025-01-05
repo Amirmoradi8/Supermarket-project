@@ -9,7 +9,7 @@ db = Database('f:/market.db')
 amir = Tk()
 amir.geometry('570x400+520+80')
 amir.resizable(0,0)
-amir.title('سوپرمارکت مسعود')
+amir.title('سوپر مارکت')
 amir.config(bg ='#3842d7')
 
 #Functions
